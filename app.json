@@ -2,7 +2,7 @@
    "addons": [
       {
          "options": {
-            "version": "9.5"
+            "version": "9.6"
          },
          "plan": "heroku-postgresql"
       }
@@ -25,7 +25,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations.",
          "required": false,
-         "value": "https://www.paypal.me/PaulSonOfLars"
+         "value": ""
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables.",
@@ -33,11 +33,11 @@
       },
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "615304572"
+         "value": "1480789177"
       },
       "OWNER_USERNAME": {
          "description": "Your username",
-         "value": "TheRealPhoenix"
+         "value": "normal_manusan"
       },
       "PORT": {
          "description": "Port to use for your webhooks.",
@@ -63,7 +63,7 @@
       },
       "TOKEN": {
          "description": "Your bot token.",
-         "value": ""
+         "value": "1515529381:AAEA6JH5x5ryo0b1atb_lmqF54M_YqDs_rA"
       },
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
